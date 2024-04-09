@@ -1,0 +1,4 @@
+#Tue Apr 09 19:30:28 CEST 2024
+base.0=/home/super/AMS-2/MP08 Programacion Multimedia/uf3/juego3/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

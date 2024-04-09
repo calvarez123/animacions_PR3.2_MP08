@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cristian.animations1.android-mergeDebugResources-2:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/super/AMS-2/MP08 Programacion Multimedia/uf3/juego3/android/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "231"
+                    }
+                }
+            ]
+        }
+    ]
+}
